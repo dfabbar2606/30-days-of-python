@@ -51,12 +51,12 @@ print(exp)
 print(floor_division)
 
 radio = int(input("dame el radio_del_cuadrado:"))
-radio_del_cuadrado = radio * radio 
+radio_del_cuadrado = radio*radio 
 pi = 3,14
-area_del_circulo = pi * radio_del_cuadrado
+area_del_circulo = pi*radio_del_cuadrado
 print(area_del_circulo)
 
-circuferencia_del_circulo = 2 * pi * radio
+circuferencia_del_circulo = 2*pi*radio
 print(circuferencia_del_circulo)
 
 firstname = input("¿cual es tu nombre?")
